@@ -1,0 +1,26 @@
+img{
+    height:300px;
+    width: 400px;
+}
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+#eth{
+    border-color: #ffaec4;
+    border-bottom-width: thick;
+    border-left-style: double;
+}
+.gal{
+    margin-left: 350px;
+    margin-top: 20px;
+}
