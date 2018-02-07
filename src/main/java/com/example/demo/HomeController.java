@@ -38,4 +38,8 @@ public class HomeController {
     public String Pumpkin(){
         return "pumpkin";
     }
+    @GetMapping("/crab")
+    public String Crubby(){
+        return "crabbyview";
+    }
 }
