@@ -3,7 +3,8 @@ img{
     width: 400px;
 }
 body {
-    background-color: lightblue;
+
+    background-image:url("../images/background.jpg");
 }
 
 h1 {
@@ -15,12 +16,12 @@ p {
     font-family: verdana;
     font-size: 20px;
 }
-#eth{
-    border-color: #ffaec4;
-    border-bottom-width: thick;
-    border-left-style: double;
-}
+
 .gal{
-    margin-left: 350px;
+    margin-left: 175px;
+    margin-right: 175px;
     margin-top: 20px;
+}
+.gal p{
+    margin-right: 175px;
 }
